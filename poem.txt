@@ -3,3 +3,4 @@ Yellow
 Green
 Magenta
 Blue
+Pink
